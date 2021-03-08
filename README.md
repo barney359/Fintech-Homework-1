@@ -131,6 +131,3 @@ The same technologies used by Robinhood currently could be used to implement all
 
 These technologies are appropriate because one of Robinhood’s major strengths is its user friendly interface. Altering what they are doing too much could result in messing up the user experience. If anything, perhaps creating a separate financial planning application that can be used in conjunction with the Robinhood app maybe an option. 
 
-While Robinhood certainly does not have any issues raising funds, they will be looking for other revenue streams beyond the rebates from Market Makers, subscription fees to Robinhood Gold, Margin lending, income generated from uninvested cash, bank sweep fees, bank interchange fees and proxy fees. 
-
-
